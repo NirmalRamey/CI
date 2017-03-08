@@ -6,6 +6,6 @@ public class CI {
 	
 	@Test
 	public void run() {
-		System.out.println("Happy");
+		System.out.println("Happy and success");
 	}	
 }
