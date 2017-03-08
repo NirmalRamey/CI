@@ -6,6 +6,6 @@ public class CA {
 	
 	@Test
 	public void run() {
-		System.out.println("Happy and Success");
+		System.out.println("Happy and Success1");
 	}	
 }
