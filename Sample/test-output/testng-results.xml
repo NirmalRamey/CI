@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="58" started-at="2017-03-08T19:10:22Z" finished-at="2017-03-08T19:10:22Z">
+  <suite name="Suite" duration-ms="68" started-at="2017-03-09T05:52:55Z" finished-at="2017-03-09T05:52:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="58" started-at="2017-03-08T19:10:22Z" finished-at="2017-03-08T19:10:22Z">
+    <test name="Test" duration-ms="68" started-at="2017-03-09T05:52:55Z" finished-at="2017-03-09T05:52:56Z">
       <class name="jenkins.CI">
-        <test-method status="PASS" signature="run()[pri:0, instance:jenkins.CI@6276ae34]" name="run" duration-ms="20" started-at="2017-03-09T00:40:22Z" finished-at="2017-03-09T00:40:22Z">
+        <test-method status="PASS" signature="run()[pri:0, instance:jenkins.CI@46f5f779]" name="run" duration-ms="10" started-at="2017-03-09T11:22:56Z" finished-at="2017-03-09T11:22:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- run -->
       </class> <!-- jenkins.CI -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

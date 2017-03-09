@@ -4,4 +4,4 @@ echo %ProjectPath%
 set classpath=%myProjectpath%\bin;%myProjectpath%\lib\*
 echo %classpath%
 java org.testng.TestNG %myProjectpath%\sample.xml
-pause
+
